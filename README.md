@@ -6,6 +6,10 @@ This project analyzes a publishing company database using SQL, Python, Power BI,
 
 The goal is to understand sales performance across books, publishers, stores, categories, and authors, then provide business recommendations to increase revenue.
 
+## Dashboard Preview
+
+![Power BI Dashboard](images/powerbi_dashboard.png)
+
 ## Tools Used
 
 - SQL Server
